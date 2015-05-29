@@ -33,6 +33,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Stream;
 
+/**
+ * test check in
+ * @author DH
+ */
+
 public class SpriteView extends StackPane {
     private final ImageView imageView;
     private Color color;
