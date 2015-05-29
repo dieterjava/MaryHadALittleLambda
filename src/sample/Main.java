@@ -50,7 +50,8 @@ public class Main extends Application {
         fox.setScaleY(.5);
         root.getChildren().add(fox);
 
-        SpriteView.Mary mary = new SpriteView.Mary(new Location(0, 3));
+        // changed for git test
+        SpriteView.Mary mary = new SpriteView.Mary(new Location(0, 4));
         populateCells(root, mary);
         root.getChildren().add(mary);
         addKeyHandler(scene, mary);
