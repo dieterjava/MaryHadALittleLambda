@@ -2,6 +2,7 @@
 /dist/
 /build/
 /out/
+/.idea/
 .idea/dictionaries/sjc.xml
 
 .idea/uiDesigner.xml
