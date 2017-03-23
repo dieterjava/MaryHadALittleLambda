@@ -51,7 +51,7 @@ public class Main extends Application {
         root.getChildren().add(fox);
 
         // changed for git test
-        SpriteView.Mary mary = new SpriteView.Mary(new Location(0, 4));
+        SpriteView.Mary mary = new SpriteView.Mary(new Location(0, 5));
         populateCells(root, mary);
         root.getChildren().add(mary);
         addKeyHandler(scene, mary);
